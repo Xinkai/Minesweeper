@@ -1,0 +1,11 @@
+[package]
+name = "MineSweeper"
+version = "0.1.0"
+authors = ["Xinkai Chen <xinkai.chen@qq.com>"]
+
+[dependencies]
+piston = "0.22.1"
+rand = "0.3.14"
+ansi_term = "0.7.2"
+conrod = "0.35.0"
+piston_window = "0.47.2"
